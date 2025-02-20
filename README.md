@@ -25,7 +25,7 @@ devil binexec on
 4. Clone the repository:
 ```
 cd domains/<username>.serv00.net
-git clone https://github.com/wuqb2i4f/serv00-vless-ws.git
+git clone https://github.com/s33mo/serv00-vless-ws.git
 cd serv00-vless-ws
 echo "PORT=<port>" > settings
 ```
