@@ -57,6 +57,8 @@ Replace `<session>` with:
 For example, to check the Cloudflared session:
 ```
 tmux attach -t cf
+tmux attach -t xray
+
 ```
 To detach from a tmux session without closing it, press:
 ```
